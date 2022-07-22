@@ -49,8 +49,6 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'TJQYFRGGXYZHPJJG' => 42,
         'QYYCMLXX' => 43,
         'QYHYSJ' => 44,
-        'XZJCXX'=>45,
-        'XZQZXX'=>46,
         'ZDJGQYMD'=>47,
         'XZCJXX'=>48,
         'XZJDJCXX'=>49,

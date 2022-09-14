@@ -5,14 +5,14 @@ interface IUserGroup extends IUserGroupIdentify
 {
     const ID = array(
         'NULL' => 0,
-        'QWB' => 1,
+        'QFGW' => 1,
         'QZFB' => 2,
         'QWZFW' => 3,
         'QWZZB' => 4,
         'QWXCB' => 5,
         'QWMB' => 6,
-        'QWWXB' => 7,
-        'QFGW' => 8,
+        'QWWXB' => 7,        
+        'QWB' => 8,
         'QSCJGJ' => 9,
         'QSWJ' => 10,
         'QZJW' => 11,

@@ -55,7 +55,9 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'XZJLXX'=>50,
         'XZQRXX'=>51,
         'XZQZXX'=>52,
-        //@position_type_53
+        'T_NP_BLACKLIST'=>53,
+        'T_NP_REDLIST'=>54,
+        //@position_type_55
         'TEST' => 500
     );
 
@@ -114,6 +116,8 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['TJQYFRGGXYZHPJJG'],
             self::TYPE['QYYCMLXX'],
             self::TYPE['ZDJGQYMD'],
+            self::TYPE['T_NP_BLACKLIST'],
+            self::TYPE['T_NP_REDLIST'],
         ),
         IUserGroup::ID['QWWXB'] => array(
         ),

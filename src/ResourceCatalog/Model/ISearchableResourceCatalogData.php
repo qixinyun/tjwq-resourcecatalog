@@ -1,4 +1,5 @@
 <?php
+
 namespace ResourceCatalog\Model;
 
 interface ISearchableResourceCatalogData
@@ -14,7 +15,7 @@ interface ISearchableResourceCatalogData
         'RED' => 1,
         'BLACK' => 2
     );
-    
+
     const TYPE_CONFIRM = array(
         'IS_CONFIRM' => 1,
         'NOT_CONFIRM' => 0

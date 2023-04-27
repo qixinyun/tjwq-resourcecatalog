@@ -1,4 +1,5 @@
 <?php
+
 namespace ResourceCatalog\Model;
 
 interface IResourceCatalogTypeName
@@ -56,6 +57,7 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['XZJLXX'] => '行政奖励信息',
         IResourceCatalog::TYPE['XZQRXX'] => '行政确认信息',
         IResourceCatalog::TYPE['XZQZXX'] => '行政强制信息',
+        IResourceCatalog::TYPE['XZJFXX'] => '行政给付信息',
         IResourceCatalog::TYPE['T_NP_BLACKLIST'] => '黑名单',
         IResourceCatalog::TYPE['T_NP_REDLIST'] => '红名单',
         //@position

@@ -60,6 +60,7 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['XZJFXX'] => 'xzjfxx',
         IResourceCatalog::TYPE['T_NP_BLACKLIST'] => 't_np_blacklist',
         IResourceCatalog::TYPE['T_NP_REDLIST'] => 't_np_redlist',
+        IResourceCatalog::TYPE['T_HTLY_HTLYXX'] => 't_htly_htlyxx',
         //@position
     );
 }

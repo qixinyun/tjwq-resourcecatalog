@@ -62,6 +62,7 @@ interface IResourceCatalogIsConfirm
         IResourceCatalog::TYPE['XZJFXX'] => ISearchableResourceCatalogData::TYPE_CONFIRM['IS_CONFIRM'],
         IResourceCatalog::TYPE['T_NP_BLACKLIST'] => ISearchableResourceCatalogData::TYPE_CONFIRM['IS_CONFIRM'],
         IResourceCatalog::TYPE['T_NP_REDLIST'] => ISearchableResourceCatalogData::TYPE_CONFIRM['IS_CONFIRM'],
+        IResourceCatalog::TYPE['T_HTLY_HTLYXX'] => ISearchableResourceCatalogData::TYPE_CONFIRM['IS_CONFIRM'],
         //@position
     );
 }

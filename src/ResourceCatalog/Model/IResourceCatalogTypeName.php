@@ -60,6 +60,7 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['XZJFXX'] => '行政给付信息',
         IResourceCatalog::TYPE['T_NP_BLACKLIST'] => '黑名单',
         IResourceCatalog::TYPE['T_NP_REDLIST'] => '红名单',
+        IResourceCatalog::TYPE['T_HTLY_HTLYXX'] => '合同履约信息',
         //@position
     );
 }
